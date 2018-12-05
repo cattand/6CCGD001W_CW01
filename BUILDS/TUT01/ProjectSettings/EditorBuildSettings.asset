@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENES/BootStrap.unity
+    guid: 64011c9d20d15df4081ec76b3cb7be68
+  - enabled: 1
+    path: Assets/SCENES/GAME_02.unity
+    guid: 0ea6a821c68174e4397b529594f725ea
